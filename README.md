@@ -13,3 +13,10 @@
 [**64 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks/app-x86_64-release.apk)
 
 [**32 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks/app-x86-release.apk)
+
+
+## Thanks
+
+[shields](https://github.com/badges/shields)
+
+[jsdelivr](https://github.com/jsdelivr/jsdelivr)
