@@ -1,6 +1,10 @@
 # rewind-apks
 
-<img src="https://img.shields.io/badge/rewind-v2.9.0-black?style=flat-square" alt="rewind-version"></img>
+<img src="https://img.shields.io/badge/rewind-v2.9.0-black?style=flat-square" alt="rewind-version"></img> 
+
+点击下方[链接](#rewind-apks)下载安装包，移动设备选 [ARM](#arm)，其他选 [X86](#x86)
+
+> 优先选择 64 位，遇到问题再尝试 32 位
 
 ## ARM
 
@@ -13,7 +17,6 @@
 [**64 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks/app-x86_64-release.apk)
 
 [**32 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks/app-x86-release.apk)
-
 
 ## Thanks
 
