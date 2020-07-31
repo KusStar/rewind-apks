@@ -1,7 +1,7 @@
 # rewind-apks
 
-<img src="https://img.shields.io/badge/rewind-v2.9.0-black?style=flat-square" alt="rewind-version">
-<img src="https://data.jsdelivr.com/v1/package/gh/KusStar/rewind-apks/badge" alt="jsDevlir hits">
+![rewind-version](https://img.shields.io/badge/rewind-v2.9.0-black?style=flat-square)
+![jsDevlir hits](https://data.jsdelivr.com/v1/package/gh/KusStar/rewind-apks/badge)
 
 点击下方[链接](#rewind-apks)下载安装包，移动设备选 [ARM](#arm)，其他选 [X86](#x86)
 
