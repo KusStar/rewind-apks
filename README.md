@@ -1,6 +1,7 @@
 # rewind-apks
 
-<img src="https://img.shields.io/badge/rewind-v2.9.0-black?style=flat-square" alt="rewind-version"></img> 
+![rewind-version](https://img.shields.io/badge/rewind-v2.9.0-black?style=flat-square)
+![jsDevlir hits](https://data.jsdelivr.com/v1/package/gh/KusStar/rewind-apks/badge)
 
 点击下方[链接](#rewind-apks)下载安装包，移动设备选 [ARM](#arm)，其他选 [X86](#x86)
 
@@ -8,15 +9,15 @@
 
 ## ARM
 
-[**64 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks/app-arm64-v8a.apk)
+[**64 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks@latest/app-arm64-v8a.apk)
 
-[**32 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks/app-armeabi-v7a.apk)
+[**32 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks@latest/app-armeabi-v7a.apk)
 
 ## X86
 
-[**64 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks/app-x86_64-release.apk)
+[**64 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks@latest/app-x86_64-release.apk)
 
-[**32 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks/app-x86-release.apk)
+[**32 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks@latest/app-x86-release.apk)
 
 ## Thanks
 
