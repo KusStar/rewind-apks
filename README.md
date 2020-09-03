@@ -9,9 +9,9 @@
 
 ## ARM
 
-[**64 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks@latest/app-arm64-v8a.apk)
+[**64 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks@latest/app-arm64-v8a-release.apk)
 
-[**32 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks@latest/app-armeabi-v7a.apk)
+[**32 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks@latest/app-armeabi-v7a-release.apk)
 
 ## X86
 
