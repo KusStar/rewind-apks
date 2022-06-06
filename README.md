@@ -7,6 +7,8 @@
 
 > 优先选择 64 位，遇到问题再尝试 32 位
 
+以下链接无法下载请尝试 [备用下载地址](https://link.ap1.storjshare.io/s/jwf4sscm3ul2lopkxw6ixszaxyfa/rewind/3.3.1/)
+
 ## ARM
 
 [**64 位**](https://cdn.jsdelivr.net/gh/KusStar/rewind-apks@3.3.1/app-arm64-v8a-release.apk)
