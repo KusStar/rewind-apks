@@ -8,7 +8,7 @@
 
 > 优先选择 64 位，遇到问题再尝试 32 位
 
-以下链接无法下载请尝试 [备用下载地址](https://link.ap1.storjshare.io/s/jvml3hl3ggrxpcfavni7mei2pyqq/rewind/3.3.1/)
+以下链接无法下载请尝试 [备用下载地址](https://n56zqzh3ji.feishu.cn/docx/doxcnL8w8MPe7iqmEwSUdZuEcof)
 
 ## ARM
 
