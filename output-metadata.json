@@ -15,8 +15,8 @@
           "value": "x86_64"
         }
       ],
-      "versionCode": 5000094,
-      "versionName": "3.3.1",
+      "versionCode": 5000096,
+      "versionName": "3.4.0",
       "outputFile": "app-x86_64-release.apk"
     },
     {
@@ -27,8 +27,8 @@
           "value": "x86"
         }
       ],
-      "versionCode": 4000094,
-      "versionName": "3.3.1",
+      "versionCode": 4000096,
+      "versionName": "3.4.0",
       "outputFile": "app-x86-release.apk"
     },
     {
@@ -39,8 +39,8 @@
           "value": "armeabi-v7a"
         }
       ],
-      "versionCode": 2000094,
-      "versionName": "3.3.1",
+      "versionCode": 2000096,
+      "versionName": "3.4.0",
       "outputFile": "app-armeabi-v7a-release.apk"
     },
     {
@@ -51,8 +51,8 @@
           "value": "arm64-v8a"
         }
       ],
-      "versionCode": 3000094,
-      "versionName": "3.3.1",
+      "versionCode": 3000096,
+      "versionName": "3.4.0",
       "outputFile": "app-arm64-v8a-release.apk"
     }
   ]
