@@ -1,6 +1,6 @@
 # rewind-apks
 
-![rewind-version](https://img.shields.io/badge/rewind-v3.4.0-black?style=for-the-badge)
+![rewind-version](https://img.shields.io/badge/rewind-v3.5.0-black?style=for-the-badge)
 [![倒带公告牌](https://img.shields.io/badge/%E5%80%92%E5%B8%A6%E5%85%AC%E5%91%8A%E7%89%8C-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rewind_News)
 [![倒带反馈群](https://img.shields.io/badge/%E5%80%92%E5%B8%A6%E5%8F%8D%E9%A6%88%E7%BE%A4-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link)](https://t.me/Rewind_Group)
 
@@ -8,7 +8,7 @@
 
 > 优先选择 64 位，遇到问题再尝试 32 位
 
-以下链接无法下载请尝试 [备用下载1](https://n56zqzh3ji.feishu.cn/docx/doxcnL8w8MPe7iqmEwSUdZuEcof) [备用下载2](https://link.ap1.storjshare.io/s/jvml3hl3ggrxpcfavni7mei2pyqq/rewind/3.4.0/)
+以下链接无法下载请尝试 [备用下载1](https://n56zqzh3ji.feishu.cn/docx/doxcnL8w8MPe7iqmEwSUdZuEcof) [备用下载2](https://link.ap1.storjshare.io/s/jvml3hl3ggrxpcfavni7mei2pyqq/rewind/3.5.0/)
 
 ## ARM
 
